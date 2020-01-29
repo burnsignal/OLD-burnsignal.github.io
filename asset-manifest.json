@@ -1,7 +1,7 @@
 {
   "main.css": "/burnSignal/static/css/main.e09005e5.chunk.css",
-  "main.js": "/burnSignal/static/js/main.18fcff59.chunk.js",
-  "main.js.map": "/burnSignal/static/js/main.18fcff59.chunk.js.map",
+  "main.js": "/burnSignal/static/js/main.b9f772af.chunk.js",
+  "main.js.map": "/burnSignal/static/js/main.b9f772af.chunk.js.map",
   "static/js/1.a8b0929d.chunk.js": "/burnSignal/static/js/1.a8b0929d.chunk.js",
   "static/js/1.a8b0929d.chunk.js.map": "/burnSignal/static/js/1.a8b0929d.chunk.js.map",
   "runtime~main.js": "/burnSignal/static/js/runtime~main.b7202685.js",
@@ -10,6 +10,6 @@
   "static/media/nucleo-icons.css": "/burnSignal/static/media/nucleo.5987dd12.woff2",
   "static/css/main.e09005e5.chunk.css.map": "/burnSignal/static/css/main.e09005e5.chunk.css.map",
   "index.html": "/burnSignal/index.html",
-  "precache-manifest.bce9f58e3d37119329d446e81034fbf6.js": "/burnSignal/precache-manifest.bce9f58e3d37119329d446e81034fbf6.js",
+  "precache-manifest.0a610adee7462dabb47ff1fe1ae0c8d9.js": "/burnSignal/precache-manifest.0a610adee7462dabb47ff1fe1ae0c8d9.js",
   "service-worker.js": "/burnSignal/service-worker.js"
 }
