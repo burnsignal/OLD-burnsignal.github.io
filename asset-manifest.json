@@ -1,15 +1,15 @@
 {
-  "main.css": "/burner-signal/static/css/main.3ac36f51.chunk.css",
-  "main.js": "/burner-signal/static/js/main.b9aea6db.chunk.js",
-  "main.js.map": "/burner-signal/static/js/main.b9aea6db.chunk.js.map",
-  "static/js/1.38b1e12c.chunk.js": "/burner-signal/static/js/1.38b1e12c.chunk.js",
-  "static/js/1.38b1e12c.chunk.js.map": "/burner-signal/static/js/1.38b1e12c.chunk.js.map",
-  "runtime~main.js": "/burner-signal/static/js/runtime~main.17ce1b5f.js",
-  "runtime~main.js.map": "/burner-signal/static/js/runtime~main.17ce1b5f.js.map",
-  "static/media/logo.png": "/burner-signal/static/media/logo.0a58105d.png",
-  "static/media/nucleo-icons.css": "/burner-signal/static/media/nucleo.5987dd12.woff2",
-  "static/css/main.3ac36f51.chunk.css.map": "/burner-signal/static/css/main.3ac36f51.chunk.css.map",
-  "index.html": "/burner-signal/index.html",
-  "precache-manifest.c441fd205c353ad6720f01184535c875.js": "/burner-signal/precache-manifest.c441fd205c353ad6720f01184535c875.js",
-  "service-worker.js": "/burner-signal/service-worker.js"
+  "main.css": "/burnSignal/static/css/main.e09005e5.chunk.css",
+  "main.js": "/burnSignal/static/js/main.18fcff59.chunk.js",
+  "main.js.map": "/burnSignal/static/js/main.18fcff59.chunk.js.map",
+  "static/js/1.a8b0929d.chunk.js": "/burnSignal/static/js/1.a8b0929d.chunk.js",
+  "static/js/1.a8b0929d.chunk.js.map": "/burnSignal/static/js/1.a8b0929d.chunk.js.map",
+  "runtime~main.js": "/burnSignal/static/js/runtime~main.b7202685.js",
+  "runtime~main.js.map": "/burnSignal/static/js/runtime~main.b7202685.js.map",
+  "static/media/logo.png": "/burnSignal/static/media/logo.0a58105d.png",
+  "static/media/nucleo-icons.css": "/burnSignal/static/media/nucleo.5987dd12.woff2",
+  "static/css/main.e09005e5.chunk.css.map": "/burnSignal/static/css/main.e09005e5.chunk.css.map",
+  "index.html": "/burnSignal/index.html",
+  "precache-manifest.bce9f58e3d37119329d446e81034fbf6.js": "/burnSignal/precache-manifest.bce9f58e3d37119329d446e81034fbf6.js",
+  "service-worker.js": "/burnSignal/service-worker.js"
 }
