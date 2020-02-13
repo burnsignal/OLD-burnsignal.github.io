@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/burnsignal/precache-manifest.f03425c89e476888bdd85a652baff128.js"
+  "/burnsignal/precache-manifest.ab4692860dc23e0b6dd0e2ebf286fbd6.js"
 );
 
 workbox.clientsClaim();
