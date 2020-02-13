@@ -24,19 +24,19 @@ self.__precacheManifest = [
     "url": "/burnsignal/static/js/runtime~main.7b2b3c1b.js"
   },
   {
-    "revision": "db685f36a29f2ab98926",
-    "url": "/burnsignal/static/js/main.db685f36.chunk.js"
+    "revision": "87e2e147fc92e149ec56",
+    "url": "/burnsignal/static/js/main.87e2e147.chunk.js"
   },
   {
     "revision": "8a1a18b1ec465757ce51",
     "url": "/burnsignal/static/js/1.8a1a18b1.chunk.js"
   },
   {
-    "revision": "db685f36a29f2ab98926",
-    "url": "/burnsignal/static/css/main.6f32848c.chunk.css"
+    "revision": "87e2e147fc92e149ec56",
+    "url": "/burnsignal/static/css/main.8ba5a416.chunk.css"
   },
   {
-    "revision": "1bbb88cf522d09c7e11eb38f196de489",
+    "revision": "699e40c81c7543d38d4ba77f9003c304",
     "url": "/burnsignal/index.html"
   }
 ];
