@@ -1,15 +1,15 @@
 {
-  "main.css": "/burnsignal/static/css/main.e431ac77.chunk.css",
-  "main.js": "/burnsignal/static/js/main.82a566de.chunk.js",
-  "main.js.map": "/burnsignal/static/js/main.82a566de.chunk.js.map",
+  "main.css": "/burnsignal/static/css/main.4cfd222a.chunk.css",
+  "main.js": "/burnsignal/static/js/main.f493b8a5.chunk.js",
+  "main.js.map": "/burnsignal/static/js/main.f493b8a5.chunk.js.map",
   "static/js/1.5ad646c4.chunk.js": "/burnsignal/static/js/1.5ad646c4.chunk.js",
   "static/js/1.5ad646c4.chunk.js.map": "/burnsignal/static/js/1.5ad646c4.chunk.js.map",
   "runtime~main.js": "/burnsignal/static/js/runtime~main.7b2b3c1b.js",
   "runtime~main.js.map": "/burnsignal/static/js/runtime~main.7b2b3c1b.js.map",
   "static/media/logo.png": "/burnsignal/static/media/logo.0a58105d.png",
-  "static/media/nucleo-icons.css": "/burnsignal/static/media/nucleo.5987dd12.woff2",
-  "static/css/main.e431ac77.chunk.css.map": "/burnsignal/static/css/main.e431ac77.chunk.css.map",
+  "static/media/nucleo-icons.css": "/burnsignal/static/media/nucleo.f0b489a5.woff",
+  "static/css/main.4cfd222a.chunk.css.map": "/burnsignal/static/css/main.4cfd222a.chunk.css.map",
   "index.html": "/burnsignal/index.html",
-  "precache-manifest.dee6365da736541dccda46ea4189c7dd.js": "/burnsignal/precache-manifest.dee6365da736541dccda46ea4189c7dd.js",
+  "precache-manifest.a85f125d986af0f03b5548b40de615ea.js": "/burnsignal/precache-manifest.a85f125d986af0f03b5548b40de615ea.js",
   "service-worker.js": "/burnsignal/service-worker.js"
 }
