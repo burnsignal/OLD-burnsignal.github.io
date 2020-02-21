@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/burnsignal/static/media/nucleo.5987dd12.woff2"
   },
   {
-    "revision": "bb8ab22c071fcaac10de",
-    "url": "/burnsignal/static/css/main.4433ab01.chunk.css"
+    "revision": "6f59da71f13dd5928fb9",
+    "url": "/burnsignal/static/css/main.8ba7da80.chunk.css"
   },
   {
     "revision": "2406993291ec0508d18b",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/burnsignal/static/media/logo.0a58105d.png"
   },
   {
-    "revision": "bb8ab22c071fcaac10de",
-    "url": "/burnsignal/static/js/main.bb8ab22c.chunk.js"
+    "revision": "6f59da71f13dd5928fb9",
+    "url": "/burnsignal/static/js/main.6f59da71.chunk.js"
   },
   {
     "revision": "f0b489a5dbbff08833d21024f9fcbd4e",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/burnsignal/static/media/profile.d6759143.png"
   },
   {
-    "revision": "f1fcee5121c3a1762b4a2b31436c6304",
+    "revision": "ba8a981c0d74fdd63d08f4bc50e29f2e",
     "url": "/burnsignal/index.html"
   }
 ];
